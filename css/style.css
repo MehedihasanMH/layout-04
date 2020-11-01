@@ -1,0 +1,45 @@
+.header{
+	min-height: 80px;
+	font-size: 30px;
+	text-align: center;
+	background-color:#e84393 ;
+}
+.box{
+	border: 5px solid black;
+	overflow: hidden;
+
+}
+.contact{
+ 	min-height: 100px;
+	text-align: justify;
+	background-color: #fdcb6e ;
+	border: 5px solid red;
+	width:49.5%;
+	float: left;
+}
+.blog{
+	min-height: 100px;
+	text-align: justify;
+	background-color: #00cec9;
+	border: 5px solid green;
+	width:49.2%;
+	float: left;
+}
+.contaimer{
+	min-height: 100px;
+	text-align: justify;
+	background-color: #55efc4;
+
+}
+.con{
+	min-height: 100px;
+	text-align: justify;
+	background-color: #e84393;
+	
+}
+.footer{
+	min-height: 60px;
+	font-size: 30px;
+	text-align: center;
+	background-color: #fab1a0;
+}
